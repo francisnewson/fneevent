@@ -1,0 +1,4 @@
+*.dblite
+build_compact/
+build_sprocess/
+*.swp
