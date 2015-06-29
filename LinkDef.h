@@ -1,5 +1,7 @@
 #ifdef __CINT__
 #pragma link C++ class fne::RecoTrack;
+#pragma link C++ class fne::RecoVertexTrack;
+#pragma link C++ class fne::RecoVertex;
 #pragma link C++ class fne::RecoMuon;
 #pragma link C++ class fne::MuonHit;
 #pragma link C++ class fne::RecoCluster;

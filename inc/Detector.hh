@@ -26,6 +26,9 @@ namespace fne
             Int_t naklhits;
             TClonesArray aklhits;
 
+            Int_t nvertexs;
+            TClonesArray vertexs;
+
             ClassDef( Detector, 3 );
     };
 }
