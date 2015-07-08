@@ -29,7 +29,7 @@ namespace fne
             Int_t nvertexs;
             TClonesArray vertexs;
 
-            ClassDef( Detector, 3 );
+            ClassDef( Detector, 4 );
     };
 }
 

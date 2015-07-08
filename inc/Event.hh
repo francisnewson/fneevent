@@ -31,7 +31,7 @@ namespace fne
             PatternUnit pattern_unit;
             Mc mc;
 
-            ClassDef(Event, 3 );
+            ClassDef(Event, 4 );
     };
 
     class FileInfo : public TObject

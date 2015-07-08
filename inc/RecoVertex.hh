@@ -13,6 +13,8 @@ namespace fne
             Int_t iTrack;
             Double_t bdxdz;
             Double_t bdydz;
+
+        private:
             ClassDef( RecoVertexTrack, 1 );
     };
 
@@ -39,6 +41,7 @@ namespace fne
             Double_t aklTime67;
             Double_t aklflag;
 
+        private:
             ClassDef( RecoVertex, 1 );
     };
 }
